@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: cpsoneghett@gmail.com
-    phone: (27) 99294-4048
+    phone: +55 27 992944048
     website: cpsoneghett.github.io #do not add http://
     linkedin: cpsoneghett
     github: cpsoneghett
@@ -47,10 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a deep lover of technology and system development. I started my career as a developer intern and, from that moment, I was highlighted especially by my ease of learning, quick perception of failures and efficient solutions, always respecting a good coding pratice.
-      I had tried working with Software Quality Assurance for 1 year and it was a pretty good challenge big for me, because I could learn a lot! But it wasn’t my passion. The fields I know and love to work with are the financial and credit companies, bank transactions and fintechs. And I’m currently working with all of this.
-      I have solid knowledge in Java, specially developing with Spring framework. Very active in the use of agile methodologies, especially Scrum. Nowdays, I'm studying and deveveloping SaaS applications in my current work, with AWS tools.
-      Natural from Brazil, I have a personal dream to take my knowledge and skills to whole world! 
+    Professional developer for at least 5 years. Passionate about programming and systems development and always looking for knowledge and innovation. Greater experience in software development in the financial sector (Credit Services and Fintechs) and some brief knowledge in the healthcare sector. In addition to experience with development itself, I have also taught courses and classes in various segments of Information Technology.
+    I am proficient in the Object Orientation paradigm, mainly using Java and the Spring framework. Solid knowledge of application and API development using both monolithic architecture and microservices (SOA). Familiar with relational and non-relational databases, such as Oracle SQL, MySQL, Postgres and MongoDB. And recently I’m deepening in learning and creating Full Cicle applications and learning the
+    basics of deploying with Continuous Integration (CI) and Continuous Development (CD) and also integration with Amazon Web Services (AWS) features. I ventured out for a year in the area of Quality Assurance, focusing on end-to-end testing automation, using Javascript frameworks and writing tests in Typescript. I’ve entered in this field by virtue of my prior programming knowledge and coding skills. But after this experience, I realized that my best skills are at the backend applications development, always carrying my passion for the field and also trying to be better and better at what I do.
 education:
     - degree: Bachelor Degree Computer Science
       university: FAESA Centro Universitário
@@ -59,64 +58,100 @@ education:
 
 experiences:
     - role: Backend Developer
-      time: 2020 - Present
-      company: Pag! Payment Methods S/A
-      details: |
+      time: Jan/2020 - Jun/2020
+      company: PAG! Payment Methods S/A
+      details: | 
+      Development of Spring Boot APIs integrated with AWS resources; assistance in developing requirements
+      for new applications; creation and elaboration of projects with bank integrations via files, online
+      registration and others for the company's financial sector;
+  
+    - role: Consultant / Freelancer Developer
+      time: Jan/2020 - Jun/2020
+      company: Transportation Company
+      details: | 
+      Creation of a web freight optimization system based on Java + Angular;
+      Integration of the system created with other freight management, product management and payment
+      management (ERP bling, SSW, Tray).
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Quality Assurance Analyst
+      time: Aug/2018 - Aug/2019
+      company: AUTOGLASS
+      details: | 
+      Tests script writing, survey of requirements for the creation of a quality routine from the creation of
+      products to the implantation; acting together with the Software Architecture team in creating development
+      standards, deploying and introducing a culture of software quality for development teams; creation of
+      automated tests written in TypeScript / JavaScript using mainly the following tools: Protractor + Jasmine 
+      + Cucumber; Performance tests with JMeter; API tests with Postman and SoapUI; Creation and
+      configuration of test pipelines in Jenkins.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    - role: Developer | System Analyst
+      time: Jan/2017 - Aug/2018
+      company: PAG! Payment Methods S/A
+      details: | 
+      Development of Web applications, APIs with Java EE, Oracle Service Bus (OSB), Spring; Preparation of
+      forms and vouchers with JasperReports; Control and deployment of application versioning in a
+      development, approval and production environment together with analysts; support in the development
+      of requirements for new applications; support to business / compliance areas in fraud detection.
+  
+    - role: Scholarship Programmer
+      time: Jul/2014 - Dec/2015
+      company: PAG! Payment Methods S/A
+      details: | 
+      Assistance in the development of a new OpenSource system, Engecare, for the Department of Health Care
+      Health - DAS / UFES and based on Java, OpenLaszlo and Javascript
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - role: Intern Developer
+      time: Oct/2014 - Apr/2015
+      company: AVISTA Creditcards S/A
+      details: | 
+      Acting under the supervision of System Architects, System Analysts and other programmers in the development, creation and maintenance of systems mainly in Java and Delphi.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Course Instructor
+      time: Aug/2011 - Aug/2012
+      company: PREPARA COURSES
+      details: | 
+      Elaboration of courses and instruction of students from the most diverse segments in the area of basic computing and programming. 
+
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java (SE/EE)
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: MySQL / OracleSQL / PostgreSQL
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Spring Framework
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git
+        level: 70%
+  
+      - name: MongoDB
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Typescript/Javascript
+        level: 50%
+
+      - name: AWS
+        level: 30%
+
+      - name: Dota 2
+        level: 1%
 
 footer: >
     <i class="fab fa-codepen"></i> Contact me: cpsoneghett@gmail.com - <a href="https://cpsoneghett.github.io" target="_blank" rel="nofollow">Soneghett, C.P.</a>

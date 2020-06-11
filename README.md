@@ -26,7 +26,7 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
-* Delete the `gh-pages` branch
+* Delete the `gh-pages` branchhttps://github.com/sharu725/online-cv/
 * Re-create the `gh-pages` branch
 * Go to settings and set Github Pages source as master.
 * Your new site should be ready at `https://username.github.io/online-cv/`
