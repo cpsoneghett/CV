@@ -46,7 +46,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: | 
     Professional developer for at least 5 years. Passionate about programming and systems development and always looking for knowledge and innovation. Greater experience in software development in the financial sector (Credit Services and Fintechs) and some brief knowledge in the healthcare sector. In addition to experience with development itself, I have also taught courses and classes in various segments of Information Technology.
     I am proficient in the Object Orientation paradigm, mainly using Java and the Spring framework. Solid knowledge of application and API development using both monolithic architecture and microservices (SOA). Familiar with relational and non-relational databases, such as Oracle SQL, MySQL, Postgres and MongoDB. And recently I’m deepening in learning and creating Full Cicle applications and learning the
     basics of deploying with Continuous Integration (CI) and Continuous Development (CD) and also integration with Amazon Web Services (AWS) features. I ventured out for a year in the area of Quality Assurance, focusing on end-to-end testing automation, using Javascript frameworks and writing tests in Typescript. I’ve entered in this field by virtue of my prior programming knowledge and coding skills. But after this experience, I realized that my best skills are at the backend applications development, always carrying my passion for the field and also trying to be better and better at what I do.
@@ -55,12 +55,12 @@ education:
     - degree: Bachelor Degree Computer Engineering
       university: Federal University of Espírito Santo
       time: 2011 - 2015 (Incomplete)
-      details: |
+      details: | 
 
     - degree: Bachelor Degree Computer Science
       university: FAESA
       time: 2017 - 2020
-      details: |
+      details: | 
 
 experiences:
     - role: Backend Developer
@@ -69,7 +69,7 @@ experiences:
       details: | 
       Development of Spring Boot APIs integrated with AWS resources; assistance in developing requirements
       for new applications; creation and elaboration of projects with bank integrations via files, online
-      registration and others for the company's financial sector;
+      registration and others for the company's financial sector
   
     - role: Consultant / Freelancer Developer
       time: Jan/2020 - Jun/2020
